@@ -36,6 +36,7 @@ pandas==2.3.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
 six==1.17.0
+ttkbootstrap==1.14.2
 stats==0.1.2a0
 tzdata==2025.2
 ```bash
