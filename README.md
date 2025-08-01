@@ -31,6 +31,12 @@ Aplicativo de controle de estoque moderno, com interface gráfica feita em Pytho
 
 - Python 3.9 ou superior
 - Dependências:
-
+numpy==2.3.1
+pandas==2.3.1
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+stats==0.1.2a0
+tzdata==2025.2
 ```bash
 pip install -r requirements.txt
