@@ -23,7 +23,8 @@ Aplicativo de controle de estoque moderno, com interface gráfica feita em Pytho
 
 ## 📸 Capturas de Tela
 
-> *(adicione aqui imagens do app rodando, caso deseje)*
+<img width="1909" height="1012" alt="image" src="https://github.com/user-attachments/assets/e59e4414-e817-4e05-8545-95d336ef801b" />
+
 
 ---
 
