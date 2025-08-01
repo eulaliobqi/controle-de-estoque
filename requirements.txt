@@ -5,3 +5,4 @@ pytz==2025.2
 six==1.17.0
 stats==0.1.2a0
 tzdata==2025.2
+ttkbootstrap==1.14.2
